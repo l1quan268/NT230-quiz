@@ -2,7 +2,7 @@
 
 An interactive, user-friendly web application designed for exam preparation for the **NT230 - Malware Mechanisms** course at UIT. 
 
-🚀 **Live Demo:** [Click here to practice](https://l1quan268.github.io/NT230-quiz/)
+🚀 **Live Demo:** [Click here to practice](https://l1quan268.github.io/NT230-quiz/) 
 
 ---
 
